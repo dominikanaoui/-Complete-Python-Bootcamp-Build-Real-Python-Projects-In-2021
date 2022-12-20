@@ -3,6 +3,7 @@ from tkinter.colorchooser import *
 
 root = Tk()
 root.geometry('550x500+100+200')
+root.title('Colour chooser')
 
 def mycolour():
     colour = askcolor()
