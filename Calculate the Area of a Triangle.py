@@ -7,7 +7,7 @@ def calculate():
     e3.insert(0,var5)
 
 def delete():
-    e1.delete(0,END)
+    e1.delete(0, END)
     e2.delete(0, END)
     e3.delete(0, END)
 
