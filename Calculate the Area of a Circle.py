@@ -10,7 +10,7 @@ def delete():
     e2.delete(0,END)
 
 root=Tk()
-root.title('Calculate an Area of a Circle')
+root.title('Calculate the Area of a Circle')
 
 var1=IntVar()
 
